@@ -1,5 +1,5 @@
 # fake-news-detector
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ishani646/fake-news-detector/blob/main/Untitled0.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ishani646/fake-news-detector/blob/main/news-detector.ipynb)
 # Fake News Detector — BERT AI
 
 A deep learning project that detects fake news using BERT 
